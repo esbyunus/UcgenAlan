@@ -1,9 +1,5 @@
 ﻿namespace UcgenHesap
 {
-    public class DikUcgen
-    {
-
-    }
     internal class Program
     {
         static void Main(string[] args)
