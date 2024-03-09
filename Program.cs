@@ -70,7 +70,6 @@
                             Console.WriteLine("Hatali Secim");
                             continue;
                     }
-                    break;
                 }
                 else if (istek == "hayir")
                 {
